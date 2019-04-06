@@ -19,5 +19,5 @@ Online Java , C and C++ Compiler main idea is to help students who want to learn
 has to keep up-to-date. If a program is compiled for Windows on an x86 architecture, the end user needs only a Windows operating system running on an  x86 architecture. Additionally, a precompiled package can run faster than an  interpreter compiling source code in real time.
 
 <br/>
-<img src="compilers.jpg" alt="compiler">
+<img src="compilers.JPG" alt="compiler">
 
